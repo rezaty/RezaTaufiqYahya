@@ -4,4 +4,4 @@ NPM     : 2106654183
 
 Kelas   : C
 
-Hobi    : Ngoding
+Hobi    : Tidur
